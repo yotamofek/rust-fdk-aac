@@ -1,0 +1,9 @@
+[package]
+name = "fdk_aac"
+version = "0.1.0"
+authors = ["Yotam Ofek <yotam.ofek@gmail.com>"]
+edition = "2018"
+links = "fdk-aac"
+build = "build.rs"
+
+[dependencies]
